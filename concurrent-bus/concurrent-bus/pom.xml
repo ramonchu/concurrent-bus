@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <developers>
+  	<developer>
+  		<email>rarnau@arteco-consulting.com</email>
+  		<name>Ramón Arnau</name>
+  		<organization>Arteco Consulting Sl</organization>
+  		<organizationUrl>http://www.arteco-consulting.com</organizationUrl>
+  		<url>https://github.com/ramonchu/concurrent-bus</url>
+  	</developer>
+  </developers>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.arteco.concurrent-bus</groupId>
+  <artifactId>concurrent-bus</artifactId>
+  <version>0.0.1</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>junit</groupId>
+  		<artifactId>junit</artifactId>
+  		<version>4.10</version>
+  		<scope>test</scope>
+  	</dependency>
+  </dependencies>
+</project>
